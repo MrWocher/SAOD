@@ -160,7 +160,7 @@ double wtime(){
 
 int main() {
     
-    int s = 10000;
+    int s = 100000;
     printf("\n%d elements:\n\n", s);
     int array[s];
     for(int i = 0; i < s; i++)
